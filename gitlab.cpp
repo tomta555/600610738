@@ -8,6 +8,12 @@ int main(){
 		}
 			cout << endl;
 	}
+	for(i=0;i<6;i++){
+		for(j=0;j<i;j++){
+			cout << "*";
+		}
+			cout << endl;
+	}
 	return 0;	
 }
 
